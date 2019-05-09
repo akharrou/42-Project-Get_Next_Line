@@ -6,7 +6,7 @@
 #    By: akharrou <akharrou@student.42.us.org>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/02/17 16:23:01 by akharrou          #+#    #+#              #
-#    Updated: 2019/05/08 18:03:27 by akharrou         ###   ########.fr        #
+#    Updated: 2019/05/09 06:40:11 by akharrou         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,14 +21,14 @@ NAME        =	libft.a
 
 # — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 
-SRCS        =    ft_strchr.c                                \
-                 ft_strjoin.c                               \
-                 ft_strdup.c                                \
-                 ft_strnew.c                                \
-                 ft_strlen.c                                \
-                 ft_strcat.c                                \
-                 ft_memalloc.c                              \
+SRCS        =    ft_memalloc.c                              \
                  ft_memset.c                                \
+                 ft_strcat.c                                \
+                 ft_strchr.c                                \
+                 ft_strdup.c                                \
+                 ft_strjoin.c                               \
+                 ft_strlen.c                                \
+                 ft_strnew.c                                \
 
 # — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
 
